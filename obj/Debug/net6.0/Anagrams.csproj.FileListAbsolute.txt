@@ -1,0 +1,15 @@
+/Users/ahtashamjaved/Documents/GitHub/DotNet/Anagrams/bin/Debug/net6.0/Anagrams
+/Users/ahtashamjaved/Documents/GitHub/DotNet/Anagrams/bin/Debug/net6.0/Anagrams.deps.json
+/Users/ahtashamjaved/Documents/GitHub/DotNet/Anagrams/bin/Debug/net6.0/Anagrams.runtimeconfig.json
+/Users/ahtashamjaved/Documents/GitHub/DotNet/Anagrams/bin/Debug/net6.0/Anagrams.dll
+/Users/ahtashamjaved/Documents/GitHub/DotNet/Anagrams/bin/Debug/net6.0/Anagrams.pdb
+/Users/ahtashamjaved/Documents/GitHub/DotNet/Anagrams/obj/Debug/net6.0/Anagrams.csproj.AssemblyReference.cache
+/Users/ahtashamjaved/Documents/GitHub/DotNet/Anagrams/obj/Debug/net6.0/Anagrams.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahtashamjaved/Documents/GitHub/DotNet/Anagrams/obj/Debug/net6.0/Anagrams.AssemblyInfoInputs.cache
+/Users/ahtashamjaved/Documents/GitHub/DotNet/Anagrams/obj/Debug/net6.0/Anagrams.AssemblyInfo.cs
+/Users/ahtashamjaved/Documents/GitHub/DotNet/Anagrams/obj/Debug/net6.0/Anagrams.csproj.CoreCompileInputs.cache
+/Users/ahtashamjaved/Documents/GitHub/DotNet/Anagrams/obj/Debug/net6.0/Anagrams.dll
+/Users/ahtashamjaved/Documents/GitHub/DotNet/Anagrams/obj/Debug/net6.0/refint/Anagrams.dll
+/Users/ahtashamjaved/Documents/GitHub/DotNet/Anagrams/obj/Debug/net6.0/Anagrams.pdb
+/Users/ahtashamjaved/Documents/GitHub/DotNet/Anagrams/obj/Debug/net6.0/Anagrams.genruntimeconfig.cache
+/Users/ahtashamjaved/Documents/GitHub/DotNet/Anagrams/obj/Debug/net6.0/ref/Anagrams.dll
