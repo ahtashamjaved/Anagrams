@@ -16,7 +16,24 @@ namespace Anagrams // Note: actual namespace depends on the project name.
             s2 = Console.ReadLine();
 
             Console.WriteLine();
-            Console.WriteLine("Are Strings Anagrams : " + CheckAnagrams(s1, s2));
+            
+            Console.WriteLine("Are Strings Anagrams : " + CheckAnagramsShort(s1, s2));
+           
+           // Console.WriteLine("Are Strings Anagrams : " + CheckAnagrams(s1, s2));
+        }
+        static bool CheckAnagramsShort(string s1, string s2)
+        {
+            if(s1.Length != s2.Length)
+            return false;
+            char[] char_s1 = s1.ToCharArray();
+            char[] char_s2 = s2.ToCharArray();
+            
+            Array.Sort(char_s1);
+            Array.Sort(char_s2);
+
+            Console.WriteLine();
+
+            return char_s1.ToString() == char_s2.ToString();
         }
 
         static bool CheckAnagrams(string s1, string s2)
